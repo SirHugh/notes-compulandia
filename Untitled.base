@@ -1,0 +1,11 @@
+views:
+  - type: list
+    name: Table
+    cardSize: 170
+    imageAspectRatio: 0.95
+    imageFit: contain
+    markers: number
+    indentProperties: true
+  - type: table
+    name: View
+    cardSize: 210

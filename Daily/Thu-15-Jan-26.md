@@ -1,0 +1,14 @@
+# Por Hacer
+-  Adaptar la lectura de categorías de la migración a Categories en todos los lugares que se utilizaba la categoría de product_categories
+-  ~~Ajuste del uso de categorías macheadas a compulandia para el calculo de precio.~~ 
+-  ~~Optimizar el formulario de confirmación de nuevos productos.~~ 
+-  Análisis de la funcionalidad de gestión de atributos/opciones de productos. 
+-  Diagrama de flujo de configuración de atributos de productos.
+-  Requerimientos de usuario para gestión de atributos de productos. 
+-  Modelo de datos para gestión de atributos variantes. 
+-  Migraciones  necesarias para gestión de atributos variantes de productos. 
+-  ~~Análisis de uso de match categories.~~
+-  ~~migración de relación entre categorías a categorías de suppliers a partners.~~ 
+-  ~~lógica de validación para relacionamiento de categorías.~~ 
+-  ~~ajuste en formulario de confirmación para nuevo producto para uso de match categories para premarcado de la categoria a asignar al producto.~~
+-  ~~lógica de matcheo automático entre categorías de supplier para recomendación al crear.~~ 

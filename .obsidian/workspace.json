@@ -4,48 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64fef3b2c7f4232e",
+        "id": "ec5503a8acd8a208",
         "type": "tabs",
         "children": [
           {
-            "id": "7f00cdc608002345",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-list",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "a420b63985bbe311",
+            "id": "6398580b706fce6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev MOC.md",
+                "file": "Monitoring/Node-Exporter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dev MOC"
-            }
-          },
-          {
-            "id": "fc92db6538a6360d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits of a good TL(teck lead).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Traits of a good TL(teck lead)"
+              "title": "Node-Exporter"
             }
           }
         ]
@@ -80,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:SoftwareEngenering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "Integrador/Implementacion Verificacion TN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Implementacion Verificacion TN"
             }
           },
           {
@@ -140,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "Monitoring/Node-Exporter.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Node-Exporter"
             }
           },
           {
@@ -197,29 +170,60 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "7f00cdc608002345",
+  "active": "6398580b706fce6f",
   "lastOpenFiles": [
-    "Traits of a good TL(teck lead).md",
-    "Dev MOC.md",
-    "create a link.md",
+    "Monitoring/Prometheus.md",
+    "Monitoring/Node-Exporter.md",
+    "Monitoring/Alert Manager.md",
+    "OMS/Untitled.md",
+    "OMS/Servicio Tecnico.md",
+    "Integrador/Implementacion Gestion de Atributos Variantes por Productos.md",
+    "Untitled",
+    "OMS",
+    "Orden de consulta sku sap para creacion de items.md",
+    "Daily/Tue-03-Feb-26.md",
+    "Integrador/Confirmacion de productos.md",
+    "Integrador/Administracion de categorias..md",
+    "Integrador/Gestion de Atributos de Productos.md",
+    "Integrador/Implementacion Verificacion TN.md",
+    "Daily/Fri-30-Jan-26.md",
+    "Workflow.md",
+    "Agentic",
+    "Daily/Tue-27-Jan-26.md",
+    "Integrador/Monitoreo con Prometheus - Versión 1.0.md",
+    "Monitoring",
+    "Daily/Thu-22-Jan-26.md",
     "Untitled.base",
-    "Untitled 1.base",
-    "Welcome.md",
+    "Pasted image 20260121113753.png",
+    "Daily/Mon-19-Jan-26.md",
+    "Daily/Mon-12-Jan-26.md",
+    "Daily/Mon-05-Jan-26.md",
+    "Daily/Fri-09-Jan-26.md",
+    "Daily/Thu-15-Jan-26.md",
+    "Daily/Thu-08-Jan-26.md",
+    "Daily/Tue-06-Jan-26.md",
+    "Daily/Wed-14-Jan-26.md",
+    "Daily/Wed-07-Jan-26.md",
+    "Untitled.canvas",
+    "Integrador/RetryJobsCommand.canvas",
+    "Untitled 1.canvas",
     "Untitled 2.base",
+    "Untitled 1.base",
+    "Integrador",
+    "Templates",
     "Daily"
   ]
 }

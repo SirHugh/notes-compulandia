@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"5762e5a70bb096d2","type":"text","text":"Lista de fallidos","x":-340,"y":-220,"width":250,"height":60},
+		{"id":"58b5e6fc5124010d","type":"text","text":"Reintentables","x":-520,"y":-60,"width":250,"height":60},
+		{"id":"35b0a37854b03353","type":"text","text":"No Reintentables","x":-160,"y":-60,"width":250,"height":60},
+		{"id":"010e8abc8b3c5de3","type":"text","text":"Redispachar","x":-540,"y":100,"width":250,"height":60},
+		{"id":"8d148ad684d5b328","type":"text","text":"Loguer","x":-340,"y":280,"width":250,"height":60},
+		{"id":"a8b9c3dc3d4a26f1","type":"text","text":"comando de sincronización","x":-340,"y":-380,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"39161bbb5cf6bc61","fromNode":"a8b9c3dc3d4a26f1","fromSide":"bottom","toNode":"5762e5a70bb096d2","toSide":"top"},
+		{"id":"39d2097701e27ded","fromNode":"5762e5a70bb096d2","fromSide":"bottom","toNode":"58b5e6fc5124010d","toSide":"top"},
+		{"id":"4fedebdab3544b6d","fromNode":"5762e5a70bb096d2","fromSide":"bottom","toNode":"35b0a37854b03353","toSide":"top"},
+		{"id":"f06ce559d74cb2fe","fromNode":"58b5e6fc5124010d","fromSide":"bottom","toNode":"010e8abc8b3c5de3","toSide":"top"},
+		{"id":"92077a890c996a9c","fromNode":"010e8abc8b3c5de3","fromSide":"bottom","toNode":"8d148ad684d5b328","toSide":"top"},
+		{"id":"463e996dae2fa016","fromNode":"35b0a37854b03353","fromSide":"bottom","toNode":"8d148ad684d5b328","toSide":"top"}
+	]
+}

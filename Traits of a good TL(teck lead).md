@@ -9,6 +9,8 @@ Responsabilidades:
 - Calidad: Elevar el estándar de calidad en desarrollo en el equipo.
 - Mentoreo: crecimiento técnico del equipo, alentar toma de decisiones técnicas en el equipo.
 
+[[Dev MOC]]
+ 
 
 ---
 ## Referencias

@@ -1,0 +1,4 @@
+-  mostrar usuario que hizo el match
+-  Gestión de atributos dentro del integrador
+-  Gestión de productos.
+-  Gestión de categorías. 

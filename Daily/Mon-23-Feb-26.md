@@ -1,0 +1,15 @@
+Por hacer 
+-  ~~Configuración de tablero de compras.~~ 
+-  Filtro de actividades por asunto 
+-  Renombrar el titulo de Tablero a Logística en Actividades del tipo logística. 
+-  Agregar boton de whatsapp para asistencia tecnica. 
+ -  ~~Capacitación para uso de tablero de compras.~~  
+-  Análisis y Modelado de flujo operativo de servicio técnico. 
+-  Ver configuración de cacheo de cloudflare.
+-  Dockerizacion del oms. 
+-  Pipeline para despliegue del oms. 
+-  Recolección de logs de los servidores. 
+-  ~~Entrevista sobre tablero de compras.~~ 
+-  Posibilidad de agregar edición de tablero. 
+-  Averiguar sobre la entidad de Sales Oportunities y entidades de sap que se relacionan al proceso de compra. 
+-  

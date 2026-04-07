@@ -1,0 +1,11 @@
+-  Problema con el exchange rate a partir de las 20hs. 
+	- Probablemente tiene un horario de vencimiento el ExchangeRate en sap. 
+-  Problema cargando cliente extranjeros. Verificar.
+-  Productos bajo pedido no aparecen para cargar en el oms. 
+-  Corregir transformación de fecha. 
+-  Simplificar el detalle del texto que se genera para copiar en actividad logística
+-  Analizar traslados de ítems que se inician desde la orden. 
+-  No se muestran las actividad logística cargadas con método de envió encomienda. 
+-  Mostrar el nombre del vendedor en el detalle de la lista de perdidos 
+-  Agregar botón para iniciar un Cobro efectuado desde el pedido. 
+-  

@@ -1,0 +1,5 @@
+-  Presentar una documentación definitiva tipo Historia de usuario. 
+-  Definir como se agrega un nuevo tipo de documento a imprimir. Descripción de pasos y requisitos o parámetros necesarios.  
+-  Limpiar el backlog de Jira. Esta lleno de tareas que no se avanzan.
+-  No muestra datos cuando el documento es una traslado confirmado. 
+-  

@@ -1,3 +1,4 @@
+# Relevamiento de Dato Servicio Tecnico.
 # Flujo de recepción de equipo para reparación.
 	El cliente presenta su equipo al tecnico recepcionista listando los problemas que tiene el equipo. 
 	El Tecnipo determina el problema de acuerdo a lo que el cliente manifiesta.
@@ -48,26 +49,18 @@ Los servicios no se asignan a los técnicos.
 # Tipos de Servicio Técnico. 
 
 ## Servicio rápido
-- Desde el alta del servicio se tiene determinado el asunto o tipo del mismo. Por ejemplo, Servicio de Mantenimiento, Limpieza, Cambio de Parte, etc. 
-- 
+	- Desde el alta del servicio se tiene determinado el asunto o tipo del mismo. Por ejemplo, Servicio de Mantenimiento, Limpieza, Cambio de Parte, etc. 
 ## Reparación Larga
+	- Cambio de RAM
+	- Cambio de SSD
 
 
 
+---- 
+Los tecnicos no pueden asignar a otros las tareas. 
+El Encargado tiene esta resposnbilidad.
+solo pueden ver los servicios que se les fueron asignados
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Pregunta: el tecnico puede ver los presupuestos enviados al cliente?
 
 

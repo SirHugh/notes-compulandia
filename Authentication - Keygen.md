@@ -10,3 +10,4 @@ type $env:USERPROFILE\.ssh\id_ed25519.pub | ssh usuario@ip-del-servidor "mkdir -
 ```
 
 
+
